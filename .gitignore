@@ -1,3 +1,6 @@
+# ide
+.idea
+
 # C++ objects and libs
 *.slo
 *.lo
